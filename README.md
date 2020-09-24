@@ -8,3 +8,4 @@
 
 ## Picture
 
+![Rick](rickroll.jpeg)
