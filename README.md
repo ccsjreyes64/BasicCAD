@@ -47,7 +47,7 @@ The Caster Fork is a piece made to hold the wheel together attached with the mou
 https://cvilleschools.onshape.com/documents/bd4fbe6255df68f22ceec275/w/f51d09f4818101369146c124/e/77892d0d931d92e8632d5f10
 
 ### Picture: 
-
+![Caster Fork](CasterFork.png)
 
 ### Reflection:
 This assignment gave me a true understanding on how to use fillets in OnShape. I used a fillet to round out all of the edges of the fork. This is so imporant because part of the engineer's responsibility is not only to make something that works, but to also make something that looks good. Knowing how to fillet also helps with rough and sharp edges.
