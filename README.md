@@ -51,3 +51,19 @@ https://cvilleschools.onshape.com/documents/bd4fbe6255df68f22ceec275/w/f51d09f48
 
 ### Reflection:
 This assignment gave me a true understanding on how to use fillets in OnShape. I used a fillet to round out all of the edges of the fork. This is so imporant because part of the engineer's responsibility is not only to make something that works, but to also make something that looks good. Knowing how to fillet also helps with rough and sharp edges.
+
+
+
+## Caster Tire
+
+### Description:
+The Caster Tire is a ring shaped piece that goes around the the caster wheel and is used for gripping what the wheel rolls on.
+
+### Evidence:
+https://cvilleschools.onshape.com/documents/bd4fbe6255df68f22ceec275/w/f51d09f4818101369146c124/e/77892d0d931d92e8632d5f10
+
+### Picture: 
+![Caster Tire](CasterTire.png)
+
+### Reflection:
+This assignment taught me how to use the revolve tool. In order to get the curve the tire has I has to revolve it around an axis order for it to be completely round. This wasn't too challenging because it was practically the same as revolving in solidworks but the hard part about ths assignment was drawing the sketch for it. I had to figure out a shape that revole into a tire shape. The fun part of this assignment was using fillets to make it look like an actual tire.
