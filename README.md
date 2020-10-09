@@ -31,7 +31,23 @@ The Caster Mount is a square piece that has holes that allign with the base and 
 https://cvilleschools.onshape.com/documents/bd4fbe6255df68f22ceec275/w/f51d09f4818101369146c124/e/77892d0d931d92e8632d5f10
 
 ### Picture: 
-
+![Caster Mount](CasterMount.png)
 
 ### Reflection:
 I learned how to make parts off of other parts with this assignment. I was able to us the base and just add a line to make i into a square and extrude that off the base in order to make the mount. This assignment was the true definition of work smarter not harder. This assignment also helped me master patterns because in the last assignment I had major issues with patterns.
+
+
+
+## Caster Fork
+
+### Description:
+The Caster Fork is a piece made to hold the wheel together attached with the mount and base. It's shaped like an electrical plug.
+
+### Evidence:
+https://cvilleschools.onshape.com/documents/bd4fbe6255df68f22ceec275/w/f51d09f4818101369146c124/e/77892d0d931d92e8632d5f10
+
+### Picture: 
+
+
+### Reflection:
+This assignment gave me a true understanding on how to use fillets in OnShape. I used a fillet to round out all of the edges of the fork. This is so imporant because part of the engineer's responsibility is not only to make something that works, but to also make something that looks good. Knowing how to fillet also helps with rough and sharp edges.
